@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-kawaii-app/static/css/main.78eb4f7c.css",
+    "main.js": "/react-kawaii-app/static/js/main.583b856d.js",
+    "static/js/453.f1dfb65e.chunk.js": "/react-kawaii-app/static/js/453.f1dfb65e.chunk.js",
+    "index.html": "/react-kawaii-app/index.html",
+    "main.78eb4f7c.css.map": "/react-kawaii-app/static/css/main.78eb4f7c.css.map",
+    "main.583b856d.js.map": "/react-kawaii-app/static/js/main.583b856d.js.map",
+    "453.f1dfb65e.chunk.js.map": "/react-kawaii-app/static/js/453.f1dfb65e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78eb4f7c.css",
+    "static/js/main.583b856d.js"
+  ]
+}
