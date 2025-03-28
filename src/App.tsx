@@ -3,7 +3,7 @@ import { Planet } from 'react-kawaii';
 import './App.css';
 
 function App() {
-  const moods = ['sad', 'shocked', 'happy', 'blissful', 'lovestruck'] as const;
+  const moods = ['sad', 'shocked', 'happy', 'blissful', 'lovestruck', 'excited', 'ko'] as const;
   type MoodType = typeof moods[number];
 
   const [mood, setMood] = useState<MoodType>('happy');
