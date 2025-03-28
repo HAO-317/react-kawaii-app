@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Planet } from 'react-kawaii';
+import { Ghost } from 'react-kawaii';
 import './App.css';
 
 function App() {
@@ -52,7 +52,7 @@ function App() {
     <div className="App" style={{ backgroundColor: bgColor }}>
       <h1>Kawaii/可愛的 <br /> Mood changes/情緒變化</h1>
       <div className={`kawaii-container ${animate ? 'animate' : ''}`}>
-        <Planet size={200} mood={mood} color={color} />
+        <Ghost size={200} mood={mood} color={color} />
       </div>
       <button className="kawaii-button" onClick={changeMood}>
         Changes/變化
